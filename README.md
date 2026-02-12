@@ -34,10 +34,15 @@ This project analyzes sales performance across regions, products, and salesperso
     The goal of this analysis is to identify:
 
 The highest performing region
+
 The most profitable salespersons
+
 The top-selling product
+
 Monthly sales and profit trends
+
 Profit variations across product, region, and salesperson
+
 The dashboard was built with interactive slicers to allow dynamic filtering and deeper insights.
 
 
