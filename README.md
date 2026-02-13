@@ -45,12 +45,11 @@ Profit variations across product, region, and salesperson
 
 The dashboard was built with interactive slicers to allow dynamic filtering and deeper insights.
 
-
-
-
-
-
-
-
-
 Business Insight Generation
+
+![image alt](https://github.com/Abubakarfarida-22/FARIDA-DATA_ANALYST_PORTFOLIO/blob/5077e49c4014bc5f666742606c17c98f7bc0b127/hp%20dashboard.png)
+
+
+
+
+
